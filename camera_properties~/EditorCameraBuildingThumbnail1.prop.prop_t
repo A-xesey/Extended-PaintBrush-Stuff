@@ -1,0 +1,10 @@
+key parent MouseTemplate
+string16 description "EditorCameraBuildingThumbnail"
+colorRGBA cameraBackgroundColor (0, 0, 0, 1)
+float cameraFarClip 5000
+float cameraInitialFOV 0.5426
+float cameraInitialHeading -55
+float cameraInitialPitch -15
+float cameraInitialZoom 1
+string16 cameraName "EditorCameraBuildingThumbnail"
+float cameraNearClip 0.2

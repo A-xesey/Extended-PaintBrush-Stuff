@@ -1,0 +1,15 @@
+string16 description "Paint Swatch Tile"
+key parent BuildingEditorTemplates!BuildingStructureSquareTemplate
+texts blockName
+	(BuildingRigblocks!0xcce7e457) "classic 05 (PLACEHOLDER)"
+end
+int32 modelComplexityScore 0
+bboxs modelDefaultChannelsBBox
+	(-2.8007441, -2.7231121, -0.018674) (2.797323, 2.7922781, 4.4373732)
+end
+float modelMaxScale 1
+float modelScale 1
+key modelMeshLOD0 editor_rigblock~!paint_swatch_tile2.rw4
+float modelMinScale 0.4
+int32 modelPrice 0
+string16 modelRigBlockAMTag "classic|blocky|beveled"
