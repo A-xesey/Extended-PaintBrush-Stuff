@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_basic_bamboo_11"
+string16 modelRigBlockAMTag "bamboo"
+float paintMaterialCol1BlendFactor 0.25
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (1,0.694117,0.0509803)
+colorRGB paintMaterialDefaultColor2 (0.529, 0.761, 0.631)
+key paintMaterialDiffuse be_basic_bamboo_11__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_basic_bamboo_11__specBump.rw4
+float paintMaterialSpecExponent 100

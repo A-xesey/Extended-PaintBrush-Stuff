@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "Concrete 06"
+string16 modelRigBlockAMTag "stucco|stone"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.65
+colorRGB paintMaterialDefaultColor1 (1,0.321568,0.580392)
+colorRGB paintMaterialDefaultColor2 (1,0.937254,0.184313)
+#colorRGB paintMaterialDefaultColor1 (0.38, 0.75, 0.75)
+#colorRGB paintMaterialDefaultColor2 (0.91, 0.67, 0.17)
+key paintMaterialDiffuse be_concrete_06__diffuse.rw4
+key paintMaterialNMapSpec be_concrete_06__specBump.rw4

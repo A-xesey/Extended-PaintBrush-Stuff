@@ -1,0 +1,9 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "bank 04"
+string16 modelRigBlockAMTag "bank"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.65
+colorRGB paintMaterialDefaultColor1 (0.192, 0.239, 0.127)
+colorRGB paintMaterialDefaultColor2 (0.15, 0.15, 0.15)
+key paintMaterialDiffuse be_bank_04__diffuse.rw4
+key paintMaterialNMapSpec be_bank_04__specBump.rw4

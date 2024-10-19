@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_Wood_Plank_Horizontal_03"
+string16 modelRigBlockAMTag "wood"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.06, 0.148, 0.217)
+colorRGB paintMaterialDefaultColor2 (0.734, 0.725, 0.393)
+key paintMaterialDiffuse be_wood_plank_horizontal_03__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_wood_plank_horizontal_03__specBump.rw4
+float paintMaterialSpecExponent 100

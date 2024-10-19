@@ -1,0 +1,9 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "Stonewall 01"
+string16 modelRigBlockAMTag "stone"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.65
+colorRGB paintMaterialDefaultColor1 (0.45, 0.52, 0.55)
+colorRGB paintMaterialDefaultColor2 (0.282, 0.180, 0.0265)
+key paintMaterialDiffuse be_stonewall_01__diffuse.rw4
+key paintMaterialNMapSpec be_stonewall_01__specBump.rw4

@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_brick_Stone_wall_08"
+string16 modelRigBlockAMTag "stone"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.326, 0.243, 0.238)
+colorRGB paintMaterialDefaultColor2 (0.91, 0.72, 0.65)
+key paintMaterialDiffuse be_brick_stone_wall_08__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_brick_stone_wall_08__specBump.rw4
+float paintMaterialSpecExponent 100

@@ -1,0 +1,9 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "Wood 03"
+string16 modelRigBlockAMTag "wood"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.65
+colorRGB paintMaterialDefaultColor1 (1, 0.495, 0.05)
+colorRGB paintMaterialDefaultColor2 (1, 0.333, 0.5)
+key paintMaterialDiffuse be_wood_03__diffuse.rw4
+key paintMaterialNMapSpec be_wood_03__specBump.rw4

@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_Basic_Pebble_Stone_05"
+string16 modelRigBlockAMTag "stone"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.439, 0.314, 0.275)
+colorRGB paintMaterialDefaultColor2 (0.769, 0.827, 0.671)
+key paintMaterialDiffuse be_basic_pebble_stone_05__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_basic_pebble_stone_05__SpecBump.rw4
+float paintMaterialSpecExponent 100

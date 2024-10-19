@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description " BE_Base_Wall_Trim_10"
+string16 modelRigBlockAMTag "walltrim"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.184, 0.118, 0.122)
+colorRGB paintMaterialDefaultColor2 (0.878, 0.714, 0.831)
+key paintMaterialDiffuse be_base_wall_trim_10__diffuse.rw4
+float paintMaterialInvBumpiness 0.625
+key paintMaterialNMapSpec be_base_wall_trim_10__specBump.rw4
+float paintMaterialSpecExponent 100

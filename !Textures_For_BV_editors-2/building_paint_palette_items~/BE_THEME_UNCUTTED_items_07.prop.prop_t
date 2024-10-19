@@ -1,0 +1,37 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+end
+keys palettePagePartItems
+	skinPaint_script~!greytheme
+	skinPaint_script~!BE_theme_crystal
+	skinPaint_script~!BE_theme_cake
+	skinPaint_script~!be_theme_hero_01
+	skinPaint_script~!BE_theme_chococake
+	skinPaint_script~!castleCrimGold
+	skinPaint_script~!castleSlateGold
+	skinPaint_script~!castleMarSand
+end
+key palettePagePartParentPage BE_THEME_UNCUTTED_pages_07

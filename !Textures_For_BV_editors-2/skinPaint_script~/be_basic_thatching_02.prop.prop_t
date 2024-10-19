@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_basic_thatching_02"
+string16 modelRigBlockAMTag "thatching"
+float paintMaterialCol1BlendFactor 0.1
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (1,0.694117,0.0509803)
+colorRGB paintMaterialDefaultColor2 (0.91, 0.7597, 0.54)
+key paintMaterialDiffuse be_basic_thatching_02__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_basic_thatching_02__specBump.rw4
+float paintMaterialSpecExponent 100

@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_Basic_shake_01"
+string16 modelRigBlockAMTag "shake"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.098, 0.161, 0.212)
+colorRGB paintMaterialDefaultColor2 (0.298, 0.541, 0.835)
+key paintMaterialDiffuse be_basic_shake_01__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_basic_shake_01__specBump.rw4
+float paintMaterialSpecExponent 100

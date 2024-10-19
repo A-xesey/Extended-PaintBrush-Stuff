@@ -1,0 +1,9 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "Roof 01"
+string16 modelRigBlockAMTag "roof"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.65
+colorRGB paintMaterialDefaultColor1 (0.0575, 0.386, 0.0402)
+colorRGB paintMaterialDefaultColor2 (0.0575, 0.386, 0.0402)
+key paintMaterialDiffuse be_roof_01__diffuse.rw4
+key paintMaterialNMapSpec be_roof_01__specBump.rw4

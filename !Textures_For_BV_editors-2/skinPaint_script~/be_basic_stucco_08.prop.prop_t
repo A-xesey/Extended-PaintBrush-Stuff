@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_basic_stucco_08"
+string16 modelRigBlockAMTag "stucco"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.447, 0.094, 0.118)
+colorRGB paintMaterialDefaultColor2 (0.692, 0.612, 0.533)
+key paintMaterialDiffuse be_basic_stucco_08__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_basic_stucco_08__specBump.rw4
+float paintMaterialSpecExponent 100

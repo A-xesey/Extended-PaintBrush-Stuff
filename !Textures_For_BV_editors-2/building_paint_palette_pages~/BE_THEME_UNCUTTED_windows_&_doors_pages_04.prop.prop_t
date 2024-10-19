@@ -1,0 +1,5 @@
+key parent palette_config~!TemplatePalettePartialThemePage.prop
+string16 description "NAATP"
+key palettePageParentCategory building_paint_palette_category~!be_category_windows_&_doors
+uint32 palettePageSequenceNumber 500
+int32 palettePageSetId 1

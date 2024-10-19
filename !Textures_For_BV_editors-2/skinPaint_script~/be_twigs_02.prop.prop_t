@@ -1,0 +1,13 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_twigs_02"
+string16 modelRigBlockAMTag "wood"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.282352,0.0862745,0.0156862)
+colorRGB paintMaterialDefaultColor2 (1,0.901960,0.862745)
+#colorRGB paintMaterialDefaultColor1 (0.665, 1, 0.185)
+#colorRGB paintMaterialDefaultColor2 (0.054, 0.12, 1)
+key paintMaterialDiffuse be_twigs_02__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_twigs_02__specBump.rw4
+float paintMaterialSpecExponent 100

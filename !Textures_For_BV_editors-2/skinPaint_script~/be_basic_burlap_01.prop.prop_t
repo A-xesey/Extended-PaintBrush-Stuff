@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_basic_burlap_01"
+string16 modelRigBlockAMTag "fabric"
+float paintMaterialCol1BlendFactor 0.1
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.525, 0.345, 0.114)
+colorRGB paintMaterialDefaultColor2 (0.765, 0.655, 0.51)
+key paintMaterialDiffuse be_basic_burlap_01__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_basic_burlap_01__specBump.rw4
+float paintMaterialSpecExponent 100

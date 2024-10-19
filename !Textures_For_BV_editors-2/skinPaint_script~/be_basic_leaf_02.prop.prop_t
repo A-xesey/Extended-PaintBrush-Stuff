@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_basic_leaf_02"
+string16 modelRigBlockAMTag "organic"
+float paintMaterialCol1BlendFactor 0.1
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.293, 0.0535, 0.0535)
+colorRGB paintMaterialDefaultColor2 (0.940, 0.0967, 0.044)
+key paintMaterialDiffuse be_basic_leaf_02__diffuse.rw4
+float paintMaterialInvBumpiness 0.325
+key paintMaterialNMapSpec be_basic_leaf_02__specBump.rw4
+float paintMaterialSpecExponent 100

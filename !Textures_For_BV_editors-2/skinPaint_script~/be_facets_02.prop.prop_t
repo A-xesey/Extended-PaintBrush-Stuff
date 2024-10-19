@@ -1,0 +1,9 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "Facets 02"
+string16 modelRigBlockAMTag "facet"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.65
+colorRGB paintMaterialDefaultColor1 (0.277, 0.0674, 0.0086)
+colorRGB paintMaterialDefaultColor2 (0.277, 0.0674, 0.0086)
+key paintMaterialDiffuse be_facets_02__diffuse.rw4
+key paintMaterialNMapSpec be_facets_02__specBump.rw4

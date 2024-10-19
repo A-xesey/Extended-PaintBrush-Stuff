@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_Tribe_fabric_03"
+string16 modelRigBlockAMTag "fabric"
+float paintMaterialCol1BlendFactor 0.35
+float paintMaterialCol2BlendFactor 0.65
+colorRGB paintMaterialDefaultColor1 (0.376, 0.255, 0.231)
+colorRGB paintMaterialDefaultColor2 (0.89, 0.843, 0.737)
+key paintMaterialDiffuse be_tribe_fabric_03__diffuse.rw4
+float paintMaterialInvBumpiness 0.625
+key paintMaterialNMapSpec be_tribe_fabric_03__specBump.rw4
+float paintMaterialSpecExponent 200

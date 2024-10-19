@@ -1,0 +1,17 @@
+keys paletteCategoryIconList
+	editors_building~!BTN_CBR_norm.png
+	editors_flora~!0xffffffff.0xffffffff
+	editors_building~!BTN_CBR_hl.png
+	editors_building~!BTN_CBR_act.png
+	editors_building~!BTN_CBR_on_norm.png
+	editors_flora~!0xffffffff.0xffffffff
+	editors_building~!BTN_CBR_on_hl.png
+	editors_building~!BTN_CBR_on_act.png
+	editors_building~!BTN_CBR_norm.png
+end
+key paletteCategoryLayoutFile editorPaintBrushPaletteCategory
+texts paletteCategoryName
+	(Textures_For_BV_editors!0x00000001) "Paintbrush Mode"
+end
+bool paletteCategoryPaintByNumber true
+uint32 paletteCategorySequenceNumber 600

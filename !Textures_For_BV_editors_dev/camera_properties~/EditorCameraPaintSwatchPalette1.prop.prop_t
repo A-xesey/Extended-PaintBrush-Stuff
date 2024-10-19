@@ -1,0 +1,10 @@
+key parent MouseTemplate
+string16 description "EditorCameraPaintSwatchPalette"
+colorRGBA cameraBackgroundColor (0, 0, 0, 1)
+float cameraFarClip 200
+float cameraInitialHeading -90
+float cameraInitialOffsetY -0.55
+float cameraInitialPitch -90
+float cameraInitialZoom 1
+string16 cameraName "EditorCameraPaintSwatchPalette"
+float cameraNearClip 0.02

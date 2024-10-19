@@ -1,0 +1,9 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "Simple 03"
+string16 modelRigBlockAMTag "simple"
+float paintMaterialCol1BlendFactor 0.85
+float paintMaterialCol2BlendFactor 0.85
+colorRGB paintMaterialDefaultColor1 (1, 0.495, 0.05)
+colorRGB paintMaterialDefaultColor2 (1, 0.333, 0.5)
+key paintMaterialDiffuse be_simple_03__diffuse.rw4
+key paintMaterialNMapSpec be_simple_03__specBump.rw4

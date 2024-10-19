@@ -1,0 +1,5 @@
+key parent palette_config~!TemplatePaletteBlockPaint.prop
+string16 description "NAATP"
+key palettePageParentCategory uncutted_paint_palette_category!paint_category_paintbrush_mode
+uint32 palettePageSequenceNumber 150
+int32 palettePageSetId 1

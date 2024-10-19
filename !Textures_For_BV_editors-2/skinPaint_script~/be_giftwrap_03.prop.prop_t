@@ -1,0 +1,9 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "Giftwrap 03"
+string16 modelRigBlockAMTag "giftwrap"
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.65
+colorRGB paintMaterialDefaultColor1 (1, 0.12, 0.053)
+colorRGB paintMaterialDefaultColor2 (0.810, 0.169, 0.275)
+key paintMaterialDiffuse be_giftwrap_03__diffuse.rw4
+key paintMaterialNMapSpec be_giftwrap_03__specBump.rw4

@@ -1,0 +1,13 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_Basic_Brick_Small_01"
+string16 modelRigBlockAMTag "brick"
+float paintMaterialBumpiness 2
+float paintMaterialCol1BlendFactor 0.65
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.098, 0.161, 0.212)
+colorRGB paintMaterialDefaultColor2 (0.694, 0.667, 0.6)
+key paintMaterialDiffuse be_basic_brick_small_01__diffuse.rw4
+float paintMaterialGlossiness 0.02
+key paintMaterialNMapSpec be_basic_brick_small_01__specBump.rw4
+float paintMaterialSpecExponent 40
+float paintMaterialSpecStrength 0

@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_New_shake_roof_A"
+string16 modelRigBlockAMTag "shake"
+float paintMaterialCol1BlendFactor 0.1
+float paintMaterialCol2BlendFactor 0.8
+colorRGB paintMaterialDefaultColor1 (0.467, 0.086, 0.082)
+colorRGB paintMaterialDefaultColor2 (0.803921,0.498039,0.474509)
+key paintMaterialDiffuse be_new_shake_roof_A__diffuse.rw4
+float paintMaterialInvBumpiness 0.6
+key paintMaterialNMapSpec be_new_shake_roof_A__specBump.rw4
+float paintMaterialSpecExponent 190

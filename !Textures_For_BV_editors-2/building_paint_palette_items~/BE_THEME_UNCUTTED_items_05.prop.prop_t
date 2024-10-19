@@ -1,0 +1,43 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+end
+keys palettePagePartItems
+	skinPaint_script~!be_theme_a_plain_08
+	skinPaint_script~!be_theme_a_tech_15
+	skinPaint_script~!be_theme_tech_18
+	skinPaint_script~!be_theme_tech_a
+	skinPaint_script~!be_theme_a_plain_10
+	skinPaint_script~!be_theme_zany_j
+	skinPaint_script~!be_theme_a_plain_12
+	skinPaint_script~!be_theme_tech_a1
+	skinPaint_script~!be_theme_zany_k
+	skinPaint_script~!be_theme_tech_b1
+	skinPaint_script~!be_theme_tech_b
+	skinPaint_script~!be_theme_tech_c
+end
+key palettePagePartParentPage BE_THEME_UNCUTTED_pages_05

@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "BE_Tech_50"
+string16 modelRigBlockAMTag "tech"
+float paintMaterialCol1BlendFactor 0.5
+float paintMaterialCol2BlendFactor 0.7
+colorRGB paintMaterialDefaultColor1 (0.063, 0.239, 0.31)
+colorRGB paintMaterialDefaultColor2 (0.212, 0.51, 0.741)
+key paintMaterialDiffuse be_tech_50__diffuse.rw4
+float paintMaterialInvBumpiness 0.625
+key paintMaterialNMapSpec be_tech_50__specBump.rw4
+float paintMaterialSpecExponent 5
