@@ -1,0 +1,52 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	3
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	0
+	1
+	1
+	1
+	1
+	2
+	2
+	2
+	2
+	3
+	3
+	3
+	3
+	4
+	4
+	4
+	4
+end
+keys palettePagePartItems
+	skinPaint_script~!be_concrete_01
+	skinPaint_script~!be_concrete_02
+	skinPaint_script~!be_concrete_03
+	skinPaint_script~!be_concrete_07
+	skinPaint_script~!identity_paint
+end
+key palettePagePartParentPage BE_TEXTURE_UNCUTTED_pages_08

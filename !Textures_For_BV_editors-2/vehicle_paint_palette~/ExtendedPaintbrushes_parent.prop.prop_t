@@ -1,0 +1,10 @@
+keys palettePalettePages
+	vehicle_paint_palette_pages~!VE_TEXTURE_UNCUTTED_pages_01
+	vehicle_paint_palette_pages~!VE_TEXTURE_UNCUTTED_pages_02
+	vehicle_paint_palette_pages~!VE_TEXTURE_UNCUTTED_pages_03
+	vehicle_paint_palette_pages~!VE_TEXTURE_UNCUTTED_pages_04
+	vehicle_paint_palette_pages~!VE_TEXTURE_UNCUTTED_pages_05
+	vehicle_paint_palette_pages~!VE_TEXTURE_UNCUTTED_pages_06
+	vehicle_paint_palette_pages~!VE_TEXTURE_UNCUTTED_pages_07
+	vehicle_paint_palette_pages~!VE_TEXTURE_UNCUTTED_pages_08
+end

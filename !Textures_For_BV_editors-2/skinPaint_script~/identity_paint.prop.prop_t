@@ -1,0 +1,11 @@
+key parent skinPaint_script~!TemplateBlockPaint.prop
+string16 description "Identity"
+string16 modelRigBlockAMTag "1"
+colorRGB paintMaterialDefaultColor1 (0.5266666, 0.4143617, 0.1979193)
+colorRGB paintMaterialDefaultColor2 (0.4637367, 0.4715027, 0.5433334)
+#colorRGB paintMaterialDefaultColor1 (0.992156,0.776470,0.360784)
+#colorRGB paintMaterialDefaultColor2 (0.839215,0.854902,1)
+float paintMaterialCol1BlendFactor 0.5
+float paintMaterialCol2BlendFactor 0.5
+key paintMaterialDiffuse white.rw4
+key paintMaterialNMapSpec black.rw4

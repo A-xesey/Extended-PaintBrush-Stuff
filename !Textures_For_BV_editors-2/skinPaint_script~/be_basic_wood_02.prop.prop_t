@@ -3,7 +3,8 @@ string16 description "BE_basic_wood_02"
 string16 modelRigBlockAMTag "wood"
 float paintMaterialCol1BlendFactor 0.1
 float paintMaterialCol2BlendFactor 0.8
-colorRGB paintMaterialDefaultColor1 (0.176, 0.188, 0.094)
+#colorRGB paintMaterialDefaultColor1 (0.176, 0.188, 0.094)
+colorRGB paintMaterialDefaultColor1 (1,0.694117,0.0509803)
 colorRGB paintMaterialDefaultColor2 (0.9, 0.6975, 0.54)
 key paintMaterialDiffuse be_basic_wood_02__diffuse.rw4
 float paintMaterialInvBumpiness 0.325
